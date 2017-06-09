@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Titan Panel [WowRadio]
+## Notes: Titan Plug-in for WowRadio
+## Author: Tormentor @Mannoroth
+## Version: 0.4
+## SavedVariables: 
+## OptionalDeps: 
+## Dependencies: Titan, WowRadio
+TitanWowRadio.xml
